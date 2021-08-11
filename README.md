@@ -1,1 +1,1 @@
-# Brain_Tumer_Prediction
+# Brain_Tumor_Prediction
